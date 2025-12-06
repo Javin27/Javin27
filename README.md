@@ -1,72 +1,74 @@
 <div align="center">
-  
-# 🌸 Javin — 僕のコードは物語になる  
-### 「Coding like a shonen hero on a journey to greatness」
 
-<img src="https://i.imgur.com/3eZC5sQ.gif" width="260">
+# 🖤 Javin — 夜のコード戦士  
+### "Coding in the shadows, rising like an anime protagonist."
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
 
 </div>
 
 ---
 
-## ⚔️ About Me  
-- 🧠 Young coder leveling up every day  
-- 🎮 Game Dev (GDevelop + JavaScript)  
-- 🤖 Building **Octo – My AI Assistant**  
-- 🔥 Future multimillionaire & tech wizard  
-- ✨ Loves anime, Japan, paranormal stories & coding  
-- 🎯 Dream: Work at top tech, build my own empire
+## 🥷 About Me  
+- 🔥 Young coder on a power-up journey  
+- 🎮 Game developer (GDevelop + JavaScript)  
+- 🤖 Creating **Octo — My own AI Assistant**  
+- 🧪 Learning Python · JS · AI · Automation  
+- 🎬 Running **YokaiJavin** YouTube channel  
+- 🎯 Long-term plan: top tech job + my own brand empire  
 
 ---
 
-## 🌀 Power Stats (Tech Stack)
+## ⚔️ Tech Arsenal  
 
-**Languages:**  
-`Python` • `JavaScript` • `HTML` • `CSS`
+**Languages**  
+`Python` | `JavaScript` | `HTML` | `CSS`
 
-**Combat Tools:**  
+**Tools**  
 `GDevelop` • `Railway` • `Replit` • `UptimeRobot`
 
-**Training Arcs:**  
-AI • Automation • Bots • Game Development
-
-<img src="https://i.imgur.com/Wq7R8F7.gif" width="280" align="right">
+**Currently Training In**  
+AI · Automation · Bots · Game Dev
 
 ---
 
-## 🔥 Current Arcs  
-- 🎮 Developing an **Endless Runner Game**  
-- 🤖 Creating **OCTO**, my personal JARVIS-style AI  
-- 🕯 Building a **candle + resin brand universe**  
-- 🎬 Running my channel **YokaiJavin**  
-- 📘 Class 10 Warrior Mode: Projects + Exams
+## 🔥 Current Quests  
+- 🎮 Endless Runner Game (JS + GDevelop)  
+- 🤖 Octo AI Assistant  
+- 🕯 Candle + Resin Brand Projects  
+- 📚 Class 10 Projects & YouTube content  
 
 ---
 
-## 📊 Battle Records (GitHub Stats)
+## 📊 My Battle Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=highcontrast&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true" height="165">
 </p>
 
 ---
 
-## ⚡ Connect With Me  
-- 🎬 YouTube: **YokaiJavin**  
-- 🧪 Kaggle warrior (GenAI 5-Day Sprint)  
-- 💼 Email: _add yours here_  
-- 🎮 Discord: _optional_
+## ⚡ Anime-Black Vibes  
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/AnimeGirl_3.gif" width="220">
+</div>
 
 ---
 
-## 🌙 My Ninja Code  
-> “I won’t stop until my skills reach S-Tier.”
+## 🔗 Connect  
+- 🎬 YouTube: **YokaiJavin**  
+- 🧪 Kaggle: GenAI Course (2025)  
+- 💼 Email: manisha492001@gmail.com  
+
+---
+
+## 🖤 My Code Philosophy  
+> “Dark mode. Deep focus. Endless improvement.”
 
 <div align="center">
-  
-<img src="https://i.imgur.com/l9l8xXM.gif" width="200">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/Assets/AnimeGirl_1.gif" width="180">
 
-### ⭐ If my repos help you, drop a star — it fuels my anime arc.
+### ⭐ Drop a star on my repo — it fuels my anime arc.
 
 </div>
