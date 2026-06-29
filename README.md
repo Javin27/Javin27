@@ -1,14 +1,22 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0033,100:0d1117&height=120&section=header" width="100%"/>
+</h1>
+
 <h1 align="center">Hi there, I'm Javin! 👋</h1>
 
 <h3 align="center">🌙 Night-owl developer | 🎮 Gamer | 🎹 Pianist | 🚀 Building things that matter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=16-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=600&lines=16-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Javin27&label=Profile%20Views&color=8a2be2&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Javin27?label=Followers&style=flat&color=8a2be2" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Javin27&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Javin27?label=Followers&style=for-the-badge&color=00ffff&logo=github&logoColor=white" alt="GitHub followers" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
@@ -42,34 +50,34 @@ class Javin:
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=00FFFF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=00FFFF&labelColor=0d1117" />
 </p>
 
 **Automation & Frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.py-00FFFF?style=for-the-badge&logo=discord&logoColor=FF00FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-00FFFF?style=for-the-badge&logo=github-actions&logoColor=FF00FF&labelColor=0d1117" />
 </p>
 
 **Tools & Platforms**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-39FF14?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-39FF14?style=for-the-badge&logo=github-pages&logoColor=0d1117&labelColor=0d1117" />
 </p>
 
 **Currently Learning**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CS_Fundamentals-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JEE_Prep-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-9600FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CS_Fundamentals-9600FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JEE_Prep-9600FF?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
@@ -98,16 +106,16 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javin27&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javin27&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Javin27&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javin27&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=c9d1d9" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javin27&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javin27&theme=synthwave&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javin27&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javin27&theme=synthwave&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=ffffff" alt="Contribution Graph" width="100%"/>
 </p>
 
 <picture>
@@ -142,9 +150,9 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Javin27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Javin27"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=FF00FF&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
@@ -154,7 +162,7 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0033,100:0d1117&height=100&section=footer" width="100%"/>
 </p>
 
 <p align="center">
