@@ -7,7 +7,7 @@
 <h3 align="center">🌙 Night-owl developer | 🎮 Gamer | 🎹 Pianist | 🚀 Building things that matter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=600&lines=16-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=600&lines=16-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -114,14 +114,6 @@ Hands-on experience with **server optimization, scripting, and modding** for san
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javin27&theme=synthwave&hide_border=true&background=000000&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javin27&theme=synthwave&hide_border=true&bg_color=000000&color=00FFFF&line=FF00FF&point=ffffff" alt="Contribution Graph" width="100%"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javin27/Javin27/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Javin27/Javin27/output/github-contribution-grid-snake.svg">
-</picture>
 
 > 📝 To enable the snake animation above, add the [GitHub Action by Platane](https://github.com/Platane/snk) to your profile repo's workflows.
 
@@ -140,7 +132,6 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 
 - [ ] Crack JEE 🎯
 - [ ] Master advanced DSA & algorithms
-- [ ] Become a full-stack developer
 - [ ] Contribute to open source
 - [ ] Land a role at a top tech company
 - [ ] Keep building things that matter
@@ -151,13 +142,7 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 
 <p align="center">
   <a href="https://github.com/Javin27"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=FF00FF&labelColor=000000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" /></a>
-</p>
 
-<p align="center">
-  <i>⭐️ Add your Discord tag and portfolio link above — replace the "#" hrefs with your real links!</i>
-</p>
 
 ---
 
