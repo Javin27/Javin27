@@ -30,8 +30,7 @@ class Javin:
         self.age = 16
         self.role = "Student | Self-Taught Developer"
         self.education = "Class 11 — Physics, Chemistry, Math, Computer Science"
-        self.long_term_goal = "Crack JEE 🎯 | Become a Software Engineer 💻"
-        self.currently_building = ["Discord Bots", "Web Interfaces", "Automation Tools"]
+        self.currently_building = ["Discord Bots", "Web Interfaces", "Automation Tools", "Games"]
         self.interests = ["Coding", "Music Production", "Gaming", "UI/UX Design"]
 
     def say_hi(self):
@@ -120,11 +119,6 @@ A browser-based online racing game featuring multiplayer rooms, real-time racing
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javin27&theme=synthwave&hide_border=true&background=000000&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
 </p>
 
-
-> 📝 To enable the snake animation above, add the [GitHub Action by Platane](https://github.com/Platane/snk) to your profile repo's workflows.
-
----
-
 ## 🎵 Beyond Coding
 
 - 🎹 **Music** — A decent pianist with a growing interest in digital audio production, MIDI synthesis, and mixing
@@ -132,17 +126,6 @@ A browser-based online racing game featuring multiplayer rooms, real-time racing
 - 🎨 **Design & Branding** — Hands-on with graphic layouts, UI/UX branding, and digital operations for creative business ventures
 - 🎌 **Culture** — Big anime fan, slowly learning Japanese 🇯🇵
 
----
-
-## 🎯 Goals
-
-- [ ] Crack JEE 🎯
-- [ ] Master advanced DSA & algorithms
-- [ ] Contribute to open source
-- [ ] Land a role at a top tech company
-- [ ] Keep building things that matter
-
----
 
 ## 📫 Connect with Me
 
