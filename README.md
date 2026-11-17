@@ -7,7 +7,7 @@
 <h3 align="center">🌙 Night-owl developer | 🎮 Gamer | 🎹 Pianist | 🚀 Building things that matter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=600&lines=16-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=600&lines=17-Year-Old+Self-Taught+Developer;Class+11+Science+Student+(PCM%2BCS);Building+Discord+Bots+%26+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
