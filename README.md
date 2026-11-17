@@ -99,6 +99,12 @@ Hands-on experience with **server optimization, scripting, and modding** for san
 
 `Scripting` · `Server Administration` · `Modding`
 
+### 🏎️ Kartverse — Multiplayer Kart Racing
+A browser-based online racing game featuring multiplayer rooms, real-time racing, keyboard and mobile controls.
+
+`JavaScript` · `Cloudflare Workers` · `WebSockets`
+
+🔗 **[Play Kartverse](https://kartverse-rooms.manisha492001.workers.dev)**
 > 💡 More projects coming soon — open to collaboration and contributions!
 
 ---
